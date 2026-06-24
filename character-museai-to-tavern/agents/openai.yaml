@@ -1,0 +1,4 @@
+interface:
+  display_name: "MuseAI 转 SillyTavern 角色卡"
+  short_description: "将 MuseAI 中文角色卡转换为 SillyTavern V2 格式"
+  default_prompt: "使用 $character-museai-to-tavern 将指定的 MuseAI 角色卡转换为可导入 SillyTavern 的中文角色卡。"

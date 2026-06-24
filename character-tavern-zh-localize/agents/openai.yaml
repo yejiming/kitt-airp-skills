@@ -1,0 +1,4 @@
+interface:
+  display_name: "SillyTavern 中文化"
+  short_description: "将英文 ST 角色卡改写为自然中文卡"
+  default_prompt: "Use $character-tavern-zh-localize to convert an English SillyTavern character card into natural Chinese."
